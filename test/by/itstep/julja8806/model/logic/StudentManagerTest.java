@@ -31,8 +31,6 @@ public class StudentManagerTest {
     @Test
     public void testMarksWithNull() {
 
-        int[] marks = null;
-
         double expected = -1;
 
 
